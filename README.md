@@ -35,7 +35,6 @@ P,L,U = lu(A)
 print(L)
 
 print(U)
-```
 (ii) To find the LU Decomposition of a matrix
 ``
 
@@ -53,11 +52,13 @@ x = lu_solve((lu, piv), b)
 
 print(x)
 
-## Output:
-1)![image](https://github.com/user-attachments/assets/6f30894f-af30-49e7-8f3b-4430d9160385)
-2)![Screenshot 2025-04-26 220410](https://github.com/user-attachments/assets/28eac6b0-5893-4332-aebf-f4d3e0d3ca55)
+output:
+![Screenshot 2025-04-26 220311](https://github.com/user-attachments/assets/5c817175-1f19-49d0-98aa-cd1371f16c51)
+![Screenshot 2025-04-26 220410](https://github.com/user-attachments/assets/c4c5e13f-69bf-435c-9cf9-d6be0f614292)
 
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
+
+```
