@@ -53,7 +53,9 @@ x = lu_solve((lu, piv), b)
 print(x)
 
 output:
+
 ![Screenshot 2025-04-26 220311](https://github.com/user-attachments/assets/5c817175-1f19-49d0-98aa-cd1371f16c51)
+
 ![Screenshot 2025-04-26 220410](https://github.com/user-attachments/assets/c4c5e13f-69bf-435c-9cf9-d6be0f614292)
 
 
